@@ -1,0 +1,10 @@
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\bin\Debug\netcoreapp3.1\Photo_generator.exe
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\obj\Debug\netcoreapp3.1\Photo_generator.csprojAssemblyReference.cache
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\obj\Debug\netcoreapp3.1\Photo_generator.AssemblyInfoInputs.cache
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\obj\Debug\netcoreapp3.1\Photo_generator.AssemblyInfo.cs
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\obj\Debug\netcoreapp3.1\Photo_generator.RazorTargetAssemblyInfo.cache
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\obj\Debug\netcoreapp3.1\staticwebassets\Photo_generator.StaticWebAssets.Manifest.cache
+C:\Users\morgane.dumarque\Desktop\COURS\NoSQL\Photo_generator\Photo_generator\obj\Debug\netcoreapp3.1\staticwebassets\Photo_generator.StaticWebAssets.xml
